@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/data/Projets/Logiciels/pomodoro-indicator/pomodoro-indicator.py
+Name=pomodoro-indicator
+Icon=/data/Projets/Logiciels/pomodoro-indicator/pomodoro.png
